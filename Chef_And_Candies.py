@@ -13,4 +13,4 @@ for _ in range(T):  # Loop over each test case
         print(math.ceil(A))  # Round up to account for partial groups
 
 # Time Complexity: O(T) -> We process each test case in constant time
-# Space Complexity: O(1) -> No extra space used apart from a few variables
+# Space Complexity: O(1) -> No extra space used apart from a few variables.
